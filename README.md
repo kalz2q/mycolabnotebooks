@@ -1,7 +1,7 @@
-# myjupyternotebooks
-to learn python
+# mycolabnotebooks
 
-1. try open in colab
-1. make trial jupyter notebook with extention ipynb
+1. This is a place to store notebooks.
+1. Notebooks are meant to be opened in Google Colab.
+1. Colab is a fantastice environment to learn everything because you can edit, try, break, build, do anything you can imagine.
+1. Many files are under construction but it is ok to try them as you wish.
 
-![svg image](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22100%22%20height%3D%22100%22%20viewBox%3D%220%200%20100%20100%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2240%22%20stroke%3D%22black%22%20stroke-width%3D%223%22%20fill%3D%22red%22%20/%3E%3C/svg%3E%0A)
