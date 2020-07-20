@@ -1,7 +1,9 @@
 # mycolabnotebooks
 
-1. This is a place to store notebooks.
-1. Notebooks are meant to be opened in Google Colab.
-1. Colab is a fantastice environment to learn everything because you can edit, try, break, build, do anything you can imagine.
-1. Many files are under construction but it is ok to try them as you wish.
+1. ここはノートブック置き場。
+1. ノートブックは`Google Colab`で開かれることを想定して作っている。
+1. `Colab`は理想的な学習環境で、自動的に元のノートブックのコピーが作られ、読者は自由に編集、実験、破壊、試行錯誤ができる。
+1. `Colab`は`Jupyter`がベースで、`Jupyter`そのもの、という言い方もされているが、いくつかの機能を削っている。特に問題はない。
+1. ノートブックのほとんどがまだ作成中だが、学習用には使えると思う。
+1. レポジトリーごと`git clone`すれば`grep`や`vscode`の横断検索がかけられる。
 
